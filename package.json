@@ -1,0 +1,25 @@
+{
+  "name": "otp-project-nuxt3",
+  "version": "0.1.0",
+  "description": "The amazing League of Legends statistics application, to snipe anybody !",
+  "author": "GUIRADO-PATRICO Nathan",
+  "license": "Apache-2.0",
+  "homepage": "https://github.com/smashscharrer/otp-project-nuxt3#readme",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smashscharrer/otp-project-nuxt3.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smashscharrer/otp-project-nuxt3/issues"
+  },
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview"
+  },
+  "devDependencies": {
+    "nuxt": "3.0.0-rc.3"
+  }
+}
